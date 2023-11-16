@@ -13,7 +13,6 @@ University of Delhi, New Delhi, India | July 2014 – April 2017
 
 💼 Professional Experience
 Women in Leadership Fellowship
-Mentor: Kirsten Garen, CIO | Board Member | Technology Advisor | CSUEB, CA | Present
 Founded 'DataHERoes', a project empowering women in data analytics.
 
 Student Data Analyst
@@ -28,9 +27,11 @@ Business & Operational Analyst
 Cadila Pharmaceuticals, India | July 2019 – Mar. 2021
 Japanese market expansion, risk management, API development.
 
-🚀 Selected Projects
+🚀 Selected Projects:
 Bay Area Real Estate Analytics (2023): Developed predictive models using web scraping and data analysis.
+
 Fraudulent Job Posting Detector (2023): Built a 98.4% accurate Logistic Regression model employing NLP and data mining techniques.
+
 Supply Chain Optimization Initiative (2020): Achieved a 35% reduction in lead time using Excel, SAP, and BI tools.
 💡 Skills
 Languages: Python, SQL, R
