@@ -4,6 +4,7 @@
 📫 Contact: +1 415-867-7045 | [Email](sarora14@horizon.csueastbay.edu) | [LinkedIn](https://www.linkedin.com/in/shriya-arora16/)
 
 🎓 Education
+
 MS in Business Analytics
 California State University, East Bay (CSUEB) | Jan. 2023 – Dec. 2024
 MS in Analytical Chemistry
@@ -12,6 +13,7 @@ BS in Chemistry
 University of Delhi, New Delhi, India | July 2014 – April 2017
 
 💼 Professional Experience
+
 Women in Leadership Fellowship
 Founded 'DataHERoes', a project empowering women in data analytics.
 
@@ -35,5 +37,5 @@ Fraudulent Job Posting Detector (2023): Built a 98.4% accurate Logistic Regressi
 Supply Chain Optimization Initiative (2020): Achieved a 35% reduction in lead time using Excel, SAP, and BI tools.
 💡 Skills
 Languages: Python, SQL, R
-Tools: Tableau, Power BI, Jira, Advanced Excel
+Tools: Tableau, Power BI, Advanced Excel
 Advanced: Big Data, Optimization Analytics
