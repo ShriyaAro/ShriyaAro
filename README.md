@@ -1,6 +1,6 @@
 👋 Hi there! I'm Shriya Arora
 -----Data Analyst Intern @ Roche- Genentech --------------
-📍 Location: Bay Area, CA 94538
+📍 Location: Bay Area, CA
 
 📫 Contact: +1 415-867-7045 | [Email](sarora14@horizon.csueastbay.edu) | [LinkedIn](https://www.linkedin.com/in/shriya-arora16/)
 
