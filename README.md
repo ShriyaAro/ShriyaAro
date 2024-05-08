@@ -1,4 +1,5 @@
 👋 Hi there! I'm Shriya Arora
+-----Data Analyst Intern @ Roche- Genentech --------------
 📍 Location: Bay Area, CA 94538
 
 📫 Contact: +1 415-867-7045 | [Email](sarora14@horizon.csueastbay.edu) | [LinkedIn](https://www.linkedin.com/in/shriya-arora16/)
@@ -14,8 +15,12 @@ University of Delhi, New Delhi, India | July 2014 – April 2017
 
 💼 Professional Experience
 
+Data Analyst Intern @Roche-Genentech
+
+Center for Student Research Scholar: CSR- CSUEB
+
 Women in Leadership Fellowship
-Founded 'DataHERoes', a project empowering women in data analytics.
+From Insight to Impact: Bridging Gaps in Curriculum & Education at College of Business & Economics
 
 Student Data Analyst
 Center for Community Engagement, CSUEB, CA | Aug. 2023 – Present
